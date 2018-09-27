@@ -1,2 +1,0 @@
-New_SoundBank	"Ambiance_play"
-New_SoundBank	"poui_play"
